@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @McMosto
-- 👀 I’m interested in hockey,guitar and computers
-- 🌱 I’m currently learning c# at school
+- 👋 Hi, I’m @ArielMos
+- 👀 I’m interested in computers, programming and gym
+- 🌱 I’m currently learning c# and python at school and java in the university
 - 📫 How to reach me - aremit33@gmail.com
 
 <!---
